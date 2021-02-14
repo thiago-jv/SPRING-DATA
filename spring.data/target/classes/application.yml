@@ -1,0 +1,29 @@
+# Spring Boot configuration
+spring:
+ 
+  # Database
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/dbspringdata?useTimezone=true&serverTimezone=UTC
+    username: postgres
+    password: nte31512#@
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 3
+      idle-timeout: 10000
+  # JPA properties
+  jpa:
+    hibernate:
+      ddl-auto: validade
+    show-sql: true
+    database: MYSQL
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    generate-ddl: true
+    
+# Logger configuration
+logging:
+  pattern:
+    console: "%d %-5level %logger : %msg%n"
+  level:
+    org.springframework: info
+    org.hibernate: debug
