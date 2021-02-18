@@ -7,6 +7,11 @@ O maven deve está instalado, caso não esteja segue o link ![maven](https://dic
 
 Instalar e configurar o java, caso não esteja segue o link ![java](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
 
+# Estrutura do projeto
+
+![Estrutura do Projeto]()
+
+
 # Tecnologias utilizadas e outros
 ```
  1- Java 8
