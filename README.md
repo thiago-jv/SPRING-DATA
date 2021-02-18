@@ -9,7 +9,7 @@ Instalar e configurar o java, caso não esteja segue o link ![java](https://medi
 
 # Estrutura do projeto
 
-![Estrutura do Projeto]()
+![Estrutura do Projeto](https://github.com/thiago-jv/SpringBoot_SpringData_QueryDinamica_PostgreSQL_Liquibase/blob/main/Estrutura.png)
 
 
 # Tecnologias utilizadas e outros
