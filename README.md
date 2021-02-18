@@ -25,6 +25,8 @@ Instalar e configurar banco de dados postgersql, caso não esteja segue o link !
  4- PostgresSql 12 ![Sobre](https://www.postgresql.org/docs/12/index.html)
  
  5- Liquibase ![Sobre](https://medium.com/responsive-br/aprofundando-um-pouco-mais-no-liquibase-a61d509344f8)
+ 
+ 6- Maven ![Sobre](https://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
 
 # Proceso para rodar o projeto
 ```
