@@ -15,14 +15,16 @@ Instalar e configurar banco de dados postgersql, caso não esteja segue o link !
 
 
 # Tecnologias utilizadas e outros
-```
+
  1- Java 8
- 3- SpringBoot 1.5.4.RELEASE
- 4- SpringData 
- 1- Java 8
+
+ 2- SpringBoot 1.5.4.RELEASE
+ 
+ 3- SpringData 
+
  4- PostgresSql 12 
- 5- Liquibase
-```
+ 
+ 5- Liquibase ![Sobre](https://medium.com/responsive-br/aprofundando-um-pouco-mais-no-liquibase-a61d509344f8)
 
 # Proceso para rodar o projeto
 ```
