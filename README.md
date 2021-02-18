@@ -3,11 +3,11 @@ Projeto com principais comandos de consultas, inserts, updats e deletes com spri
 
 # Pré-requisitos
 
-O maven deve está instalado, caso não esteja segue o link ![maven](https://dicasdejava.com.br/como-instalar-o-maven-no-windows/)
+O maven deve está instalado, caso não esteja segue o link [maven](https://dicasdejava.com.br/como-instalar-o-maven-no-windows/)
 
-Instalar e configurar o java, caso não esteja segue o link ![java](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
+Instalar e configurar o java, caso não esteja segue o link [java](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
 
-Instalar e configurar banco de dados postgersql, caso não esteja segue o link ![postgresql](https://www.youtube.com/watch?v=FoqXi0wpX4c)
+Instalar e configurar banco de dados postgersql, caso não esteja segue o link [postgresql](https://www.youtube.com/watch?v=FoqXi0wpX4c)
 
 # Estrutura do projeto
 
