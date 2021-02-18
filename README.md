@@ -16,17 +16,17 @@ Instalar e configurar banco de dados postgersql, caso não esteja segue o link !
 
 # Tecnologias utilizadas e outros
 
- 1- Java 8 ![Sobre](https://www.java.com/pt-BR/download/help/java8_pt-br.html)
+ 1- Java 8 [Sobre](https://www.java.com/pt-BR/download/help/java8_pt-br.html)
 
- 2- SpringBoot 1.5.4.RELEASE ![Sobre](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+ 2- SpringBoot 1.5.4.RELEASE [Sobre](https://docs.spring.io/spring-boot/docs/current/reference/html/)
  
- 3- SpringData ![Sobre](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) 
+ 3- SpringData [Sobre](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) 
 
- 4- PostgresSql 12 ![Sobre](https://www.postgresql.org/docs/12/index.html)
+ 4- PostgresSql 12 [Sobre](https://www.postgresql.org/docs/12/index.html)
  
- 5- Liquibase ![Sobre](https://medium.com/responsive-br/aprofundando-um-pouco-mais-no-liquibase-a61d509344f8)
+ 5- Liquibase [Sobre](https://medium.com/responsive-br/aprofundando-um-pouco-mais-no-liquibase-a61d509344f8)
  
- 6- Maven ![Sobre](https://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
+ 6- Maven [Sobre](https://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
 
 # Proceso para rodar o projeto
 ```
