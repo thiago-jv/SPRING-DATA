@@ -34,7 +34,10 @@ Instalar e configurar banco de dados postgersql, caso não esteja segue o link [
 2- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
 3- git clone https://github.com/thiago-jv/SpringBoot_SpringData_QueryDinamica_PostgreSQL_Liquibase.git
 4- Entrar dentro da pasta do projeto spring.data
-5- mvn spring-boot:run
+5- mvn dependency:resolve
+6- mvn dependency:tree
+7- mvn package
+8- mvn spring-boot:run
 ```
 
 
