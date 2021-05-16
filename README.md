@@ -31,7 +31,9 @@ Instalar e configurar banco de dados postgersql, caso não esteja segue o link [
 # Proceso para rodar o projeto
 ```
 1- Criar o banco de dados com o nome "dbspringdata". 
+```
 ![BD](https://github.com/thiago-jv/spring-data/blob/main/banco.png)
+```
 2- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
 3- git clone https://github.com/thiago-jv/SpringBoot_SpringData_QueryDinamica_PostgreSQL_Liquibase.git
 4- Entrar dentro da pasta do projeto spring.data
